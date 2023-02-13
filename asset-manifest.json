@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BlockHouse_Liquidity_Live/static/css/main.9ddffda7.css",
+    "main.css": "/BlockHouse_Liquidity_Live/static/css/main.2b682bfc.css",
     "main.js": "/BlockHouse_Liquidity_Live/static/js/main.b9997270.js",
     "static/js/787.3a39cd02.chunk.js": "/BlockHouse_Liquidity_Live/static/js/787.3a39cd02.chunk.js",
     "static/media/aboutAssetsBackground.png": "/BlockHouse_Liquidity_Live/static/media/aboutAssetsBackground.e6309429a438d246d495.png",
@@ -20,12 +20,12 @@
     "static/media/thirdSecFirstRowTileSecImg.png": "/BlockHouse_Liquidity_Live/static/media/thirdSecFirstRowTileSecImg.a96044d914456f84340c.png",
     "static/media/thirdSecSxtTileImg.png": "/BlockHouse_Liquidity_Live/static/media/thirdSecSxtTileImg.828f13c01cdadc5b0272.png",
     "index.html": "/BlockHouse_Liquidity_Live/index.html",
-    "main.9ddffda7.css.map": "/BlockHouse_Liquidity_Live/static/css/main.9ddffda7.css.map",
+    "main.2b682bfc.css.map": "/BlockHouse_Liquidity_Live/static/css/main.2b682bfc.css.map",
     "main.b9997270.js.map": "/BlockHouse_Liquidity_Live/static/js/main.b9997270.js.map",
     "787.3a39cd02.chunk.js.map": "/BlockHouse_Liquidity_Live/static/js/787.3a39cd02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ddffda7.css",
+    "static/css/main.2b682bfc.css",
     "static/js/main.b9997270.js"
   ]
 }
