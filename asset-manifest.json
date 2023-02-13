@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/BlockHouse_Liquidity_Live/static/css/main.65a4806d.css",
-    "main.js": "/BlockHouse_Liquidity_Live/static/js/main.b9997270.js",
+    "main.css": "/BlockHouse_Liquidity_Live/static/css/main.1ceda229.css",
+    "main.js": "/BlockHouse_Liquidity_Live/static/js/main.a5a3becd.js",
     "static/js/787.3a39cd02.chunk.js": "/BlockHouse_Liquidity_Live/static/js/787.3a39cd02.chunk.js",
     "static/media/aboutAssetsBackground.png": "/BlockHouse_Liquidity_Live/static/media/aboutAssetsBackground.e6309429a438d246d495.png",
     "static/media/3rdSectionBackground.png": "/BlockHouse_Liquidity_Live/static/media/3rdSectionBackground.baa4b36eedc0ed19ce6e.png",
     "static/media/landingPageBackground.png": "/BlockHouse_Liquidity_Live/static/media/landingPageBackground.97d40ed1f48e70470bbf.png",
     "static/media/fifthSecBackground.png": "/BlockHouse_Liquidity_Live/static/media/fifthSecBackground.bf46e3e9ddf3afe7c87f.png",
+    "static/media/blockHouseBackground.png": "/BlockHouse_Liquidity_Live/static/media/blockHouseBackground.2a753fa1f879617e3760.png",
+    "static/media/liquidityBackground.png": "/BlockHouse_Liquidity_Live/static/media/liquidityBackground.0f984e718f4cbd8db79b.png",
     "static/media/assetImg.png": "/BlockHouse_Liquidity_Live/static/media/assetImg.fd5d07b59055d9edbc74.png",
     "static/media/fourthSec1stImg.png": "/BlockHouse_Liquidity_Live/static/media/fourthSec1stImg.3247e1d061b063f6395f.png",
     "static/media/fourthSecSecImg.png": "/BlockHouse_Liquidity_Live/static/media/fourthSecSecImg.e3aa93b84ea255c2cfb2.png",
@@ -20,12 +22,12 @@
     "static/media/thirdSecFirstRowTileSecImg.png": "/BlockHouse_Liquidity_Live/static/media/thirdSecFirstRowTileSecImg.a96044d914456f84340c.png",
     "static/media/thirdSecSxtTileImg.png": "/BlockHouse_Liquidity_Live/static/media/thirdSecSxtTileImg.828f13c01cdadc5b0272.png",
     "index.html": "/BlockHouse_Liquidity_Live/index.html",
-    "main.65a4806d.css.map": "/BlockHouse_Liquidity_Live/static/css/main.65a4806d.css.map",
-    "main.b9997270.js.map": "/BlockHouse_Liquidity_Live/static/js/main.b9997270.js.map",
+    "main.1ceda229.css.map": "/BlockHouse_Liquidity_Live/static/css/main.1ceda229.css.map",
+    "main.a5a3becd.js.map": "/BlockHouse_Liquidity_Live/static/js/main.a5a3becd.js.map",
     "787.3a39cd02.chunk.js.map": "/BlockHouse_Liquidity_Live/static/js/787.3a39cd02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65a4806d.css",
-    "static/js/main.b9997270.js"
+    "static/css/main.1ceda229.css",
+    "static/js/main.a5a3becd.js"
   ]
 }
